@@ -1,0 +1,1590 @@
+{
+ "url": "http://localhost:3000/solutions/",
+ "at": "2026-10-22T10:04:11.826Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.89,
+    0.49,
+    1,
+    0.65,
+    0.53,
+    0.4,
+    1
+   ],
+   "motion": {
+    "elements": 25,
+    "css": 0,
+    "transitions": 25,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 6217,
+     "screens": 6.9,
+     "words": 805,
+     "img": 8,
+     "video": 1,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 8,
+     "videoCount": 1,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "cat-surveillance-ai.webp",
+      "cat-access-control.webp",
+      "cat-fire-life-safety.webp",
+      "cat-network-it.webp",
+      "cat-voice-evacuation.webp",
+      "cat-command-control.webp",
+      "cat-command-control.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "Converged ELV Systems",
+     "words": 3,
+     "chars": 21,
+     "lines": 1,
+     "size": 56,
+     "vw": 3.9,
+     "font": "Plus Jakarta Sans",
+     "weight": 800,
+     "tracking": -0.025,
+     "leading": 1.08,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.61,
+     "top": 234,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Converged ELV Systems",
+     "words": 3,
+     "lines": 1,
+     "size": 56,
+     "font": "Plus Jakarta Sans"
+    },
+    "headings": [
+     {
+      "text": "Converged ELV Systems",
+      "words": 3,
+      "chars": 21,
+      "lines": 1,
+      "size": 56,
+      "vw": 3.9,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.61,
+      "top": 234,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Integrated Subsystems",
+      "words": 2,
+      "chars": 21,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 1028,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Autonomous Orchestration",
+      "words": 2,
+      "chars": 24,
+      "lines": 1,
+      "size": 42.4,
+      "vw": 2.9,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.51,
+      "top": 1945,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Sub-Second Protocol Triaging",
+      "words": 3,
+      "chars": 28,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.51,
+      "top": 2150,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Automated Life Safety Overrides",
+      "words": 4,
+      "chars": 31,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.51,
+      "top": 2350,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Predictive Telemetry Prevention",
+      "words": 3,
+      "chars": 31,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.51,
+      "top": 2550,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Engineering Delivery",
+      "words": 2,
+      "chars": 20,
+      "lines": 1,
+      "size": 42.4,
+      "vw": 2.9,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 2926,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Verified Compliance Benchmarks",
+      "words": 3,
+      "chars": 30,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 3650,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Subsystem Architecture",
+      "words": 2,
+      "chars": 22,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 4058,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Plan Your Infrastructure",
+      "words": 3,
+      "chars": 24,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.35,
+      "top": 5539,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter",
+       "share": 0.93,
+       "mono": false
+      },
+      {
+       "family": "Plus Jakarta Sans",
+       "share": 0.06,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0.01,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      14,
+      15,
+      16,
+      19,
+      20,
+      36,
+      42,
+      56
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Inter",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.4
+     },
+     "measureChars": 92,
+     "max": {
+      "size": 56,
+      "vw": 3.9,
+      "font": "Plus Jakarta Sans",
+      "text": "Converged ELV Systems"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.02,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#070a0f",
+     "bodyBgHsl": {
+      "h": 218,
+      "s": 0.36,
+      "l": 0.04
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#04060a",
+       "top": 80,
+       "hsl": {
+        "h": 220,
+        "s": 0.43,
+        "l": 0.03
+       }
+      },
+      {
+       "color": "#0e1420",
+       "top": 186,
+       "hsl": {
+        "h": 220,
+        "s": 0.39,
+        "l": 0.09
+       }
+      },
+      {
+       "color": "#070a0f",
+       "top": 908,
+       "hsl": {
+        "h": 218,
+        "s": 0.36,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#cbd5e1",
+       "share": 0.69
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.15
+      },
+      {
+       "color": "#7e8eaa",
+       "share": 0.07
+      },
+      {
+       "color": "#f59e0b",
+       "share": 0.04
+      },
+      {
+       "color": "#f8fafc",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#f59e0b",
+      "hsl": {
+       "h": 38,
+       "s": 0.92,
+       "l": 0.5
+      },
+      "fg": "#f8fafc"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 8,
+     "inHero": 7,
+     "radius": 4,
+     "height": 32,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to main content",
+      "Solutions",
+      "Normal Telemetry",
+      "Fire Emergency",
+      "Perimeter Breach"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 6,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 5,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 512
+      },
+      {
+       "count": 5,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 3078
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "video",
+      "ratio": 0.92
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 80,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "inter",
+     "plus jakarta sans"
+    ]
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.79,
+    0.75,
+    0.88,
+    0.87,
+    0.61,
+    0.43,
+    0.48,
+    1
+   ],
+   "motion": {
+    "elements": 26,
+    "css": 0,
+    "transitions": 26,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 8021,
+     "screens": 7.8,
+     "words": 805,
+     "img": 8,
+     "video": 1,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 8,
+     "videoCount": 1,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "cat-surveillance-ai.webp",
+      "cat-access-control.webp",
+      "cat-fire-life-safety.webp",
+      "cat-network-it.webp",
+      "cat-voice-evacuation.webp",
+      "cat-command-control.webp",
+      "cat-command-control.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "Converged ELV Systems",
+     "words": 3,
+     "chars": 21,
+     "lines": 1,
+     "size": 36,
+     "vw": 4.7,
+     "font": "Plus Jakarta Sans",
+     "weight": 800,
+     "tracking": -0.025,
+     "leading": 1.08,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.86,
+     "top": 188,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Converged ELV Systems",
+     "words": 3,
+     "lines": 1,
+     "size": 36,
+     "font": "Plus Jakarta Sans"
+    },
+    "headings": [
+     {
+      "text": "Converged ELV Systems",
+      "words": 3,
+      "chars": 21,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.86,
+      "top": 188,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Integrated Subsystems",
+      "words": 2,
+      "chars": 21,
+      "lines": 1,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 1113,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Autonomous Orchestration",
+      "words": 2,
+      "chars": 24,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 3222,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Sub-Second Protocol Triaging",
+      "words": 3,
+      "chars": 28,
+      "lines": 1,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 3411,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Automated Life Safety Overrides",
+      "words": 4,
+      "chars": 31,
+      "lines": 1,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 3599,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Predictive Telemetry Prevention",
+      "words": 3,
+      "chars": 31,
+      "lines": 1,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 3787,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Engineering Delivery",
+      "words": 2,
+      "chars": 20,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.68,
+      "top": 4071,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Verified Compliance Benchmarks",
+      "words": 3,
+      "chars": 30,
+      "lines": 1,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 5239,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Subsystem Architecture",
+      "words": 2,
+      "chars": 22,
+      "lines": 1,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 5555,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Plan Your Infrastructure",
+      "words": 3,
+      "chars": 24,
+      "lines": 1,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.66,
+      "top": 7253,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter",
+       "share": 0.93,
+       "mono": false
+      },
+      {
+       "family": "Plus Jakarta Sans",
+       "share": 0.06,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0.01,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      14,
+      15,
+      16,
+      18,
+      19,
+      20,
+      26,
+      28,
+      36
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Inter",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.4
+     },
+     "measureChars": 90,
+     "max": {
+      "size": 36,
+      "vw": 4.7,
+      "font": "Plus Jakarta Sans",
+      "text": "Converged ELV Systems"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.02,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#070a0f",
+     "bodyBgHsl": {
+      "h": 218,
+      "s": 0.36,
+      "l": 0.04
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#04060a",
+       "top": 80,
+       "hsl": {
+        "h": 220,
+        "s": 0.43,
+        "l": 0.03
+       }
+      },
+      {
+       "color": "#0e1420",
+       "top": 160,
+       "hsl": {
+        "h": 220,
+        "s": 0.39,
+        "l": 0.09
+       }
+      },
+      {
+       "color": "#070a0f",
+       "top": 364,
+       "hsl": {
+        "h": 218,
+        "s": 0.36,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#cbd5e1",
+       "share": 0.69
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.16
+      },
+      {
+       "color": "#7e8eaa",
+       "share": 0.08
+      },
+      {
+       "color": "#f59e0b",
+       "share": 0.04
+      },
+      {
+       "color": "#f8fafc",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#f59e0b",
+      "hsl": {
+       "h": 38,
+       "s": 0.92,
+       "l": 0.5
+      },
+      "fg": "#f8fafc"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 8,
+     "inHero": 7,
+     "radius": 4,
+     "height": 32,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to main content",
+      "Solutions",
+      "Normal Telemetry",
+      "Fire Emergency",
+      "Perimeter Breach"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 6,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 5,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 470
+      },
+      {
+       "count": 5,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 4207
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "video",
+      "ratio": 0.93
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 80,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "inter",
+     "plus jakarta sans"
+    ]
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.84,
+    0.78,
+    0.84,
+    0.79,
+    1,
+    0.82,
+    0.92,
+    0.81,
+    0.53,
+    0.56,
+    0.61,
+    1
+   ],
+   "motion": {
+    "elements": 27,
+    "css": 0,
+    "transitions": 27,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 10142,
+     "screens": 12,
+     "words": 805,
+     "img": 8,
+     "video": 1,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 8,
+     "videoCount": 1,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "cat-surveillance-ai.webp",
+      "cat-access-control.webp",
+      "cat-fire-life-safety.webp",
+      "cat-network-it.webp",
+      "cat-voice-evacuation.webp",
+      "cat-command-control.webp",
+      "cat-command-control.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "Converged ELV Systems",
+     "words": 3,
+     "chars": 21,
+     "lines": 2,
+     "size": 36,
+     "vw": 9.2,
+     "font": "Plus Jakarta Sans",
+     "weight": 800,
+     "tracking": -0.025,
+     "leading": 1.08,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.73,
+     "top": 188,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Converged ELV Systems",
+     "words": 3,
+     "lines": 2,
+     "size": 36,
+     "font": "Plus Jakarta Sans"
+    },
+    "headings": [
+     {
+      "text": "Converged ELV Systems",
+      "words": 3,
+      "chars": 21,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.73,
+      "top": 188,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Integrated Subsystems",
+      "words": 2,
+      "chars": 21,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 1665,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Autonomous Orchestration",
+      "words": 2,
+      "chars": 24,
+      "lines": 2,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 3825,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Sub-Second Protocol Triaging",
+      "words": 3,
+      "chars": 28,
+      "lines": 2,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 4072,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Automated Life Safety Overrides",
+      "words": 4,
+      "chars": 31,
+      "lines": 2,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 4316,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Predictive Telemetry Prevention",
+      "words": 3,
+      "chars": 31,
+      "lines": 2,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 4561,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Engineering Delivery",
+      "words": 2,
+      "chars": 20,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 4902,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Verified Compliance Benchmarks",
+      "words": 3,
+      "chars": 30,
+      "lines": 2,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 6687,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Subsystem Architecture",
+      "words": 2,
+      "chars": 22,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 7085,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Plan Your Infrastructure",
+      "words": 3,
+      "chars": 24,
+      "lines": 2,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.63,
+      "top": 9314,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter",
+       "share": 0.93,
+       "mono": false
+      },
+      {
+       "family": "Plus Jakarta Sans",
+       "share": 0.06,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0.01,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      14,
+      15,
+      16,
+      18,
+      20,
+      26,
+      28,
+      36
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Inter",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.4
+     },
+     "measureChars": 43,
+     "max": {
+      "size": 36,
+      "vw": 9.2,
+      "font": "Plus Jakarta Sans",
+      "text": "Converged ELV Systems"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.02,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#070a0f",
+     "bodyBgHsl": {
+      "h": 218,
+      "s": 0.36,
+      "l": 0.04
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#04060a",
+       "top": 80,
+       "hsl": {
+        "h": 220,
+        "s": 0.43,
+        "l": 0.03
+       }
+      },
+      {
+       "color": "#0e1420",
+       "top": 160,
+       "hsl": {
+        "h": 220,
+        "s": 0.39,
+        "l": 0.09
+       }
+      },
+      {
+       "color": "#070a0f",
+       "top": 511,
+       "hsl": {
+        "h": 218,
+        "s": 0.36,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#cbd5e1",
+       "share": 0.69
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.16
+      },
+      {
+       "color": "#7e8eaa",
+       "share": 0.08
+      },
+      {
+       "color": "#f59e0b",
+       "share": 0.04
+      },
+      {
+       "color": "#f8fafc",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#f59e0b",
+      "hsl": {
+       "h": 38,
+       "s": 0.92,
+       "l": 0.5
+      },
+      "fg": "#f8fafc"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 8,
+     "inHero": 5,
+     "radius": 4,
+     "height": 32,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to main content",
+      "Solutions",
+      "Normal Telemetry",
+      "Fire Emergency",
+      "Perimeter Breach"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 6,
+     "mediaRadius": 4,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 5,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 720
+      },
+      {
+       "count": 5,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 1857
+      },
+      {
+       "count": 5,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 5063
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "video",
+      "ratio": 0.92
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 80,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "inter",
+     "plus jakarta sans"
+    ]
+   },
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "card-rows",
+   "width": 1440,
+   "message": "2 rows of identical boxed cards.",
+   "fix": "Vary the composition; not every section is a card grid.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "measure",
+   "width": 1440,
+   "message": "Longest paragraph runs about 92 characters per line.",
+   "fix": "Cap paragraphs at 45–75 characters (max-width: 60ch).",
+   "alsoAt": [
+    768
+   ]
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "D:\\demo3\\1\\.taste-skill\\inspect\\desktop-fold.jpg",
+   "pages": [
+    "D:\\demo3\\1\\.taste-skill\\inspect\\desktop-page-01.jpg",
+    "D:\\demo3\\1\\.taste-skill\\inspect\\desktop-page-02.jpg"
+   ]
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "D:\\demo3\\1\\.taste-skill\\inspect\\tablet-fold.jpg",
+   "pages": [
+    "D:\\demo3\\1\\.taste-skill\\inspect\\tablet-page-01.jpg",
+    "D:\\demo3\\1\\.taste-skill\\inspect\\tablet-page-02.jpg"
+   ]
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "D:\\demo3\\1\\.taste-skill\\inspect\\mobile-fold.jpg",
+   "pages": [
+    "D:\\demo3\\1\\.taste-skill\\inspect\\mobile-page-01.jpg",
+    "D:\\demo3\\1\\.taste-skill\\inspect\\mobile-page-02.jpg"
+   ]
+  }
+ ]
+}
